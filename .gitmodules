@@ -1,0 +1,3 @@
+[submodule "resources/[lib]/mysql-async"]
+	path = resources/[lib]/mysql-async
+	url = https://github.com/richlira/fivem-mysql-async
